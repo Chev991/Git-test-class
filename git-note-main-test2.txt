@@ -1,0 +1,11 @@
+Note
+
+-	VSC (Version Control of System)
+-	The most popular VSC is git
+-	Git (global information tracker)
+-	Git is local and personal. While github is for cloud and to the public requiring internet
+-	Repo – is a workspace which tracks and manages files within a folder. Every repo has its own history.
+-	Note: you can only have one .git folder per repo; meaning you can only use the git init command once per repo.
+-	Commit: is a snapshot of earlier changes, allowing us to revert to a previous version or a change we made ealier
+        Commits comment can be done via VIM or via terminal directly; please see git command spreadsheet.
+- 
